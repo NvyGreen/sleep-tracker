@@ -1,0 +1,42 @@
+#container {
+  text-align: center;
+  left: 0;
+  right: 0;
+}
+
+#container strong {
+  font-size: 20px;
+  line-height: 26px;
+}
+
+#container p {
+  font-size: 16px;
+  line-height: 22px;
+
+  color: #8c8c8c;
+
+  margin: 0;
+}
+
+ion-fab {
+  margin-bottom: 12%;
+  margin-right: 1%;
+}
+
+#container a {
+  text-decoration: none;
+}
+
+.modal__button {
+  text-transform: none;
+}
+
+.modal__title {
+  text-align: center;
+}
+
+.modal__datetime {
+  width: 100%;
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
